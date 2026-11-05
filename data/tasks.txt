@@ -1,0 +1,4 @@
+1,Learn Python,Pending
+2,Practice Git Commands,Pending
+3,Create GitHub Repository,Completed
+4,Learn Git Branching,Pending
